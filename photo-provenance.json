@@ -1,0 +1,22 @@
+{
+  "official_hub": "https://allmylinks.com/eliteimagelongisland",
+  "instagram": "https://www.instagram.com/EliteImageLongIsland/",
+  "google_business": "https://www.google.com/maps?cid=6551920035076736677",
+  "google_shortlink": "https://g.co/kgs/poAN62Y",
+  "photos": {
+    "assets/google-work-1.jpg": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBB4AyXe7M2XAV_ZI-mnMa9USsckILGtkdohQ5rgXy1wdZ6u5wb4dCv2VDQEUAlIhfXX415phK_QjW1Js83S1mue9BF7yRUjHwUWb3Bon4oMQdgNctPBZ4J9q_q9dwYCOhGwEOpg=w1600",
+    "assets/google-work-2.jpg": "https://lh3.googleusercontent.com/grass-cs/AABkmLccESZe7SxlY2E-AbBda5BBui3_JPStguVNehv1FtFl8ci0BDNPYMQ26oEPSkBDV2jo5ZaRFBvvR9Km6VG1uu8QzKaXyRGkDZf8hdugiEFjGUMefEwSHzGiX4anmEIuH4ohs1k=w1600",
+    "assets/google-work-3.jpg": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQQE_3aNVYBMj8sR_OPneqgua9iAbx73FH9imFObxpigrpCcxFioGbnb4C5soI2XFccO3QxEUzRiFJ7iBcXdI-msHQz9j50kZpBIu9BDFoc7bsXPYbvQxmoaCyKNn0P4NERIFP=w1600",
+    "assets/google-work-4.jpg": "https://lh3.googleusercontent.com/grass-cs/AABkmLcldRvW2d9jKjfgxzAkSU3ml9GIC82_m09iNghfEQWBq7OZS1CpnB6ZEtVeKCLZHVhWfhWVJyPMi6szQ2m3_yb6HET6eIPOu7FtQYyYetMdwcwLDn3gvEc-qNUusUu062xylVO4I0gRTXE=w1600"
+  },
+  "logo": "https://cdn.allmylinks.com/prod/User/photo/Y/P/J/awqmhahjK5YbOiCyD9Zkm07cSQ6354Km.jpg",
+  "verified_google_rating": 5.0,
+  "verified_google_review_count": 46,
+  "official_phone": "631-353-9053",
+  "derivatives": {
+    "assets/hero.webp": "assets/google-work-4.jpg",
+    "assets/work-01.webp": "assets/google-work-2.jpg",
+    "assets/work-02.webp": "assets/google-work-1.jpg"
+  },
+  "reuse_rights": "Not independently confirmed. Verify owner permission before public commercial launch."
+}

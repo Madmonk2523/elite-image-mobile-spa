@@ -1,0 +1,11 @@
+{
+  "name": "elite-image-mobile-spa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elite Image Long Island Mobile Auto Spa website",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/test.mjs"
+  }
+}
